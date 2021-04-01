@@ -22,7 +22,7 @@ Service instances deployed in <b>Azure’s Southeast Asia</b> region:<br /> <br 
 ![AzureVNetDNS](images/AzureVNetDNS.png) <br /><br /><br />
 
 <b>privatelink.azurecr.io: </b> Private DNS Zone in Azure which has the mapping information of the ACR privacr to its private IP address.
-![PrivateZone](images/PrivateZone.png) <br /><br /><br />
+![PrivateZone](images/PrivateZone1.png) <br /><br /><br />
 
 Since the Private Link for <b>privacr</b> was created in the VNet <b>azure-vnet (172.18.0.0/16)</b>, this VNet is linked to the Private DNS Zone <b>privatelink.azurecr.io</b>
 ![PrivateDNSVNetLink](images/PrivateDNSVNetLink.png) <br /><br /><br />
